@@ -1,0 +1,8 @@
+admin.nodeInfo.enode
+admin.addPeer("enode://0f17b71ab2a4504f9c007001d3ebaff1bd0faa1139b47e39c86d5aae3e403e1557c792219c6121dbd7f94cd8ce6ff3304bb8e0902b969078d0b2be43e205e3ef@27.71.49.182:30303")
+admin.peers.length
+admin.addPeer("enode://c27aec733ae3121162d339c90840f3d86010b5816407cf22e87a0a4e96e11f5f8b2406baa95b2b3bc4df076df1ccd779d9b371850f978d987fafd8a7050491fb@127.0.0.1:30405?discport=0")
+admin.peers.length
+admin.addPeer("enode://0f17b71ab2a4504f9c007001d3ebaff1bd0faa1139b47e39c86d5aae3e403e1557c792219c6121dbd7f94cd8ce6ff3304bb8e0902b969078d0b2be43e205e3ef@27.71.49.182:30303")
+admin.peers.length
+admin.peers
